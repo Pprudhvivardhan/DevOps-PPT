@@ -1,3 +1,2 @@
-# Devops-PPT
-
-End to End DevOps Topics
+# Devops-PPT 
+DevOps Topics
